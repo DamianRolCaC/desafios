@@ -25,6 +25,14 @@ body {
   color: #0b7bcd;
 }
 
+.subtitulo-demo {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  font-size: 1rem;
+  color: #ffffff;
+  font-style: italic;
+}
+
 .subtitulo1 {
   font-size: 1.5rem;
 }
@@ -54,7 +62,7 @@ body {
 .w3-button {
   background-color: #816aa5 !important;
   color: aliceblue !important;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 500;
 }
 
@@ -93,7 +101,6 @@ body {
   font-style: normal !important;
   text-align: center;
   width: auto;
-
 }
 
 .bottom span {
