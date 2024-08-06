@@ -6,6 +6,11 @@ body {
   font-family: 'Fredoka', sans-serif;
 }
 
+hr{
+  height: 1px;
+  background-color: #0b7bcd;
+}
+
 .titulo {
   font-size: 2rem;
   background-color: #f77a26;
